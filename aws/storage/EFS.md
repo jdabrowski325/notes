@@ -21,3 +21,8 @@
     - 
 
     - [EFS Pricing](https://aws.amazon.com/efs/pricing/)
+
+4. Troubleshooting
+    - 
+
+    - [Troubleshooting](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
