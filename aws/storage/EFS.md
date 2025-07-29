@@ -6,8 +6,6 @@
 1. Opis
     - 
 
-    - Jest to usluga przechowywania **plikow** w chmurze zaprojektowana w celu zapewnienia: skalowalnego, elastycznego, szyfrowanego systemu przechowywania plikow do uzytku w chmurze oraz lokalnie.
-
-
+    - Jest to usluga przechowywania **plikow** w chmurze zaprojektowana w celu zapewnienia: **skalowalnego**, **elastycznego**, **szyfrowanego** systemu przechowywania plikow do uzytku w chmurze oraz lokalnie.
 
 
