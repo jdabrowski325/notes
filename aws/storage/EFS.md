@@ -10,4 +10,10 @@
 
 
 
-</hr>
+<footer>
+
+
+    <span>footer</span>
+
+    &#169; footer
+</footer>
