@@ -1,9 +1,7 @@
 # Subnetting
 
 1. Definicja (eli5)
-    ```
-    Subnetting to tak, jakbyś ten duży worek z adresami pocztowymi podzielił na mniejsze, tematyczne woreczki. Zamiast mieć jeden wielki bałagan, masz woreczki na listy do salonu, do kuchni, do sypialni itd. W świecie komputerów, te "woreczki" to podsieci
-    ```
+    `Subnetting to tak, jakbyś ten duży worek z adresami pocztowymi podzielił na mniejsze, tematyczne woreczki. Zamiast mieć jeden wielki bałagan, masz woreczki na listy do salonu, do kuchni, do sypialni itd. W świecie komputerów, te "woreczki" to podsieci`
 
 2. Przykład
     - 
