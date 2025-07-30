@@ -5,4 +5,4 @@
 1. Opis
     - 
 
-    - Zapewnia surowa pamiec masowa ktora moze byc dolaczona do **Instancji EC2** i jest uzywana przez Amazon **Relational Database System** (RDS)
+    - Zapewnia surową pamięć masową która moze być dolączona do **Instancji EC2** oraz moze być uzywana przez Amazon **Relational Database System** (RDS)
