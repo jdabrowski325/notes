@@ -13,7 +13,7 @@
 
     - Umozliwia zarzadzanie kopiami zapasowymi z jednego miejsca dla wielu serwisów AWS
     - Tworzenie planowanyc kopii zapasowych - które same sie tym zajmą
-    - Kopie zapasowe są szyfrowane - bezpieczeństwo oraz jest integracja z IAM dla dostępów
+    - Kopie zapasowe są szyfrowane - bezpieczeństwo oraz jest integracja z [Amazon IAM](../security/IAM.md "AWS IAM") dla dostępów
 
 3. Pricing
     - 
