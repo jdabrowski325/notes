@@ -6,4 +6,4 @@
     - sieć komputerowa o zasięgu obejmującym obszar miasta lub aglomeracji
 
 2. Wizualizacja
-    [MAN](../images/protocols/MAN.png "Metropolitan Area Network")
+    [MAN](../images/MAN.png "Metropolitan Area Network")

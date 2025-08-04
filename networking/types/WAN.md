@@ -6,4 +6,4 @@
     - sieć komputerowa obejmująca duży obszar geograficzny, zwykle większy niż miasto, kraj, a nawet kontynent
 
 2. Wizualizacja
-    [WAN](../images/protocols/WAN.png, "Wide Area Network")
+    [WAN](../images/WAN.png, "Wide Area Network")

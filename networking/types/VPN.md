@@ -22,4 +22,4 @@
             - IPSec jest używany do szyfrowania danych, zapewniając bezpieczeństwo komunikacji.
 
 3. Wizualizacja
-    [VPN](../images/protocols/VPN.png "Virtual Private Network")
+    [VPN](../images/VPN.png "Virtual Private Network")
